@@ -4,7 +4,7 @@ This project demonstrates how to integrate **Google Sign-In** authentication wit
 
 ## 📝 Features
 
--   Google OAuth 2.0 authentication
+-   Google OAuth - authentication
 -   FastAPI backend
 -   Environment variable configuration
 
